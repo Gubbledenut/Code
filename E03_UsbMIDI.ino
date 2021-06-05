@@ -1,4 +1,8 @@
 /*  OpenPipe Breakout MIDI example
+ *   MIDIUSB_ Chanter. wiring included in code. 
+ *   Requires Arduino libraries, WIRE, OPENPIPE, MIDI to compile. 
+ *  It will work fine with either a Teensy LC ,3.2 or 4 board and 
+ *   one MPR121 cap touch 12 input board.
  *
  *  Send MIDI commands to external synths.
  *
